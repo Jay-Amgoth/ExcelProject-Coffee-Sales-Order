@@ -1,6 +1,6 @@
 Project Overview:
 
-The primary goal of this project is to create a dynamic dashboard that aggregates data from multiple tables and provides interactive visualizations. The dashboard allows users to filter data based on various criteria and view updated graphs and charts instantly.
+The primary goal of this project is to create a dynamic dashboard that aggregates data from multiple tables and provides interactive visualizations. Used Pivot Tables to organize and summarize data for visualization. The dashboard allows users to filter data based on various criteria and view updated graphs and charts instantly.
 
 Data Description:
 
@@ -13,7 +13,7 @@ The project utilizes three distinct tables:
 3. Customers: Contains customer information, including loyalty card status and country.
 
 Key Features:
-
+  
   Total Sales Line Graph: Displays the trend of total sales over time.
 
   Timeline: Allows users to filter data by specific time periods.
